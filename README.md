@@ -1,2 +1,3 @@
 # CapStone_Project
 Dataset_creditcard IBM_CapStone_Project
+This project successfully developed a Logistic Regression model to classify credit card transactions as fraudulent or legitimate. The workflow included data exploration, cleaning, visualization, feature scaling, model training, and evaluation. The results demonstrate that Logistic Regression is an effective baseline model for fraud detection, particularly when combined with appropriate handling of class imbalance. Future work could compare this approach with more advanced machine learning models such as Random Forest or XGBoost to further improve detection performance.
