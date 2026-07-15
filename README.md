@@ -1,2 +1,2 @@
-# CapStone_Project
+# CapStone-Project
 The Imarticus Capstone Project (Credit Card Fraud Detection) implemented a Logistic Regression model to classify transactions as fraudulent or legitimate. The workflow covered data exploration, cleaning, visualization, feature scaling, model training, and evaluation. Despite severe class imbalance, effective preprocessing and feature engineering enabled strong performance, establishing Logistic Regression as a solid baseline for fraud detection. This approach provides a practical foundation for real-world systems, with future improvements possible through advanced models like Random Forest or XGBoost.
